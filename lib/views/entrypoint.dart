@@ -18,7 +18,7 @@ class MainScreen extends StatelessWidget {
             alignment: Alignment.bottomCenter,
             child: Theme(
               data: Theme.of(context).copyWith(
-                canvasColor: const Color(kPrimary),
+                canvasColor: (kPrimary),
               ),
               child: BottomNavigationBar(
                 items: const [
