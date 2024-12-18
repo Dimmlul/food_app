@@ -27,7 +27,7 @@ class CustomAppBar extends StatelessWidget {
                   radius: 22.r,
                   backgroundColor: kSecondary,
                   backgroundImage: const NetworkImage(
-                     'https://i.pinimg.com/originals/08/2b/45/082b45cb00463bf84de6f95a5a025f09.gif' ),
+                      'https://i.pinimg.com/474x/a4/77/f9/a477f9ed591f214f9068c08fe5e2de6c.jpg'),
                 ),
                 Padding(
                   padding: EdgeInsets.only(bottom: 6.h, left: 8.w),
@@ -51,7 +51,7 @@ class CustomAppBar extends StatelessWidget {
             ),
              Text(
               getTimeOfDay(),
-              style: const TextStyle(fontSize: 30), // KALO KEGEDEAN BISA OVERFLOW = ERROR 
+              style: const TextStyle(fontSize: 25),
             )
           ],
         ),

@@ -4,7 +4,7 @@ List<dynamic> categories = [
     "title": "Fried Rice",
     "value": "fried_rice",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/4a4cd06e-94de-4478-8588-66eee01354d4-rice.png",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "createdAt": "2023-10-24T16:12:23.571Z",
     "updatedAt": "2023-10-24T16:12:23.571Z",
     "__v": 0
@@ -14,7 +14,7 @@ List<dynamic> categories = [
     "title": "Curry",
     "value": "curry",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/ee2d952c-1d7d-48f7-81b3-cb967343eb6c-curry.png",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "__v": 0
   },
   {
@@ -22,7 +22,7 @@ List<dynamic> categories = [
     "title": "Pizza",
     "value": "pizza",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/466693e6-f999-42e0-8794-09325ece1b45-Pizza.png",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "__v": 0
   },
   {
@@ -30,7 +30,7 @@ List<dynamic> categories = [
     "title": "Pasta",
     "value": "pasta",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/6645cf41-bc89-4dd0-9f80-bba9487633b2-Spaghetti.png",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "__v": 0
   },
   {
@@ -38,7 +38,7 @@ List<dynamic> categories = [
     "title": "Beverages",
     "value": "beverages",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/93c4b3df-9e55-4308-a834-9fe4ad67c0b3-bar.png",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "__v": 0
   },
   {
@@ -46,7 +46,7 @@ List<dynamic> categories = [
     "title": "Burgers",
     "value": "burgers",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/3c94bc09-b8b9-4961-accb-f68b7e8121cc-Hamburger.png",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "__v": 0
   },
   {
@@ -54,7 +54,7 @@ List<dynamic> categories = [
     "title": "Chicken",
     "value": "chicken",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/139718b2-2832-40c5-8d7b-11fd9feb0aac-chicken.png",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "__v": 0
   },
   {
@@ -62,22 +62,22 @@ List<dynamic> categories = [
     "title": "More",
     "value": "more",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/08323562-a3c6-461d-95a3-b3817c99871b-more.png",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "__v": 0
   }
 ];
 
-const restaurants = [
+List<dynamic> restaurants = [
   {
     "_id": "6530ebbcc9e72013e5b65933",
     "title": "Lapisara Eatery",
     "time": "6:00am - 9:00pm",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "owner": "fdfsdfsdfs",
     "code": "41007428",
     "logoUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "rating": 5,
     "ratingCount": "6765",
     "coords": {
@@ -95,11 +95,11 @@ const restaurants = [
     "title": "Burger King",
     "time": "6:00am - 9:00pm",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "owner": "sjgdsjgfjshhjs",
     "code": "41007428",
     "logoUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "rating": 5,
     "ratingCount": "3278",
     "coords": {
@@ -117,11 +117,11 @@ const restaurants = [
     "title": "La Foods",
     "time": "6:00am - 9:00pm",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "owner": "fgdgdfgd",
     "code": "41007428",
     "logoUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "rating": 5,
     "ratingCount": "5666",
     "coords": {
@@ -139,11 +139,11 @@ const restaurants = [
     "title": "Italian Restaurant",
     "time": "6:00am - 9:00pm",
     "imageUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "owner": "sjgdsjgfjshhjs",
     "code": "41007428",
     "logoUrl":
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
     "rating": 5,
     "ratingCount": "3278",
     "coords": {
@@ -180,7 +180,7 @@ List <Map<String, dynamic>> foods = [
       {"id": 5, "title": "Sugar", "price": "0.50"}
     ],
     "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
+      "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg"
     ,
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
@@ -207,7 +207,7 @@ List <Map<String, dynamic>> foods = [
       {"id": 5, "title": "Pasta", "price": "3.00"}
     ],
     "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
+      "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg"
     ,
     "__v": 2,
     "category": "6531209dbbe4998e90af3fef",
@@ -234,7 +234,7 @@ List <Map<String, dynamic>> foods = [
       {"id": 5, "title": "Vinaigrette", "price": "0.50"}
     ],
    "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
+      "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg"
     ,
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
@@ -259,7 +259,7 @@ List <Map<String, dynamic>> foods = [
       {"id": 3, "title": "Ketch up", "price": "0.50"}
     ],
     "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
+      "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg"
     ,
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
@@ -286,7 +286,7 @@ List <Map<String, dynamic>> foods = [
       {"id": 5, "title": "Ice", "price": "0.50"}
     ],
    "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
+      "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg"
     ,
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
@@ -319,7 +319,7 @@ List <Map<String, dynamic>> foods = [
       {"id": 5, "title": "Barbecue Sauce", "price": "1.00"}
     ],
     "imageUrl": 
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
+      "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg"
     ,
     "__v": 0,
     "category": "6531209dbbe4998e90af3fef",
@@ -338,8 +338,8 @@ const cart = [
       "rating": 4.5,
       "ratingCount": "150",
       "imageUrl": [
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp",
-        "https://d326fntlu7tb1e.cloudfront.net/uploads/5c2a9ca8-eb07-400b-b8a6-2acfab2a9ee2-image001.webp"
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
+        "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg"
       ]
     },
     "additives": ["Extra Cheese", "Mushrooms"],
@@ -358,7 +358,7 @@ const profile = {
   "address": [],
   "userType": "Vendor",
   "profile":
-      "https://d326fntlu7tb1e.cloudfront.net/uploads/bdec9d7d-0544-4fc4-823d-3b898f6dbbbf-vinci_03.jpeg",
+      "https://i.pinimg.com/736x/35/f6/d5/35f6d573dc3e2215569393f687fcbffe.jpg",
   "updatedAt": "2023-10-24T11:02:28.215Z"
 };
 

@@ -11,8 +11,11 @@
 analyzer:
   errors:
     avoid_print: ignore
+    deprecated_member_use: ignore
     must_be_immutable: ignore
     prefer_final_fields: ignore
+    prefer_typing_uninitialized_variables: ignore
+    unused_import: ignore
     use_super_parameters: ignore
 include: package:flutter_lints/flutter.yaml
 

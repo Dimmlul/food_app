@@ -15,7 +15,7 @@ class CustomContainer extends StatelessWidget {
       height: MediaQuery.of(context).size.height * 0.75,
       child: ClipRRect(
         borderRadius: BorderRadius.only(
-          bottomLeft: Radius.circular(0.r), // 30 buat ios biar cakep wkkw
+          bottomLeft: Radius.circular(0.r),
           bottomRight: Radius.circular(0.r),
         ),
         child: Container(
