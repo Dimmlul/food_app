@@ -5,7 +5,6 @@ import 'package:food_app/constants/constants.dart';
 
 class CartPage extends StatelessWidget {
   const CartPage({super.key});
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

@@ -21,4 +21,5 @@ class CategoryList extends StatelessWidget {
       ),
     );
   }
+  
 }
