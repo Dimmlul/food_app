@@ -54,10 +54,11 @@ flutter:
 
   uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
+
   assets:
     - lib/assets/images/
     - lib/assets/anime/
     - lib/assets/icons/
+    - lib/assets/anime/delivery.json
 
 

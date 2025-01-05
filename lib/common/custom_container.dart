@@ -5,7 +5,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:food_app/constants/constants.dart';
 
 class CustomContainer extends StatelessWidget {
-   CustomContainer({super.key, required this.containerContent});
+  CustomContainer({super.key, required this.containerContent, required Color color});
 
   Widget containerContent;
 
